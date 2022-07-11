@@ -14,7 +14,7 @@
 <a href="https://twitter.com/s_drojas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s_drojas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dezequiel-gonzalez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezequiel gonzalez g." height="30" width="40" /></a>
 <a href="https://fb.com/S.drojas03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ezee rojas" height="30" width="40" /></a>
-<a href="https://instagram.com/@s_drojas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@s_drojas" height="30" width="40" /></a>
+<a href="https://instagram.com/s_drojas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@s_drojas" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ezedrojas03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ezedrojas03" height="30" width="40" /></a>
 </p>
 
