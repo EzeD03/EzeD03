@@ -16,9 +16,9 @@
 
 <br />
 
-<div style="display:flex; flex-wrap:wrap">
+<div style="display:flex;">
 
-  <div>
+  <div style="width:50%">
 
   <h3 align="left">Connect with me:</h3>
 
