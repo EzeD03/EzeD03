@@ -43,7 +43,7 @@
 
 <br />
 
-### Now Playing 🎧
+### Now Playing 🎧:
 
 <br />
 
