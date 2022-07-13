@@ -43,4 +43,4 @@
 
 <br />
 
-[![Spotify](https://ezed03.vercel.app/api/spotify)](https://open.spotify.com/user/6d7b769e19d44ffa84fa17584e988f2b)
+[![Spotify](https://spotify-show-357xdu6oh-ezed03.vercel.app/api/spotify)](https://open.spotify.com/user/6d7b769e19d44ffa84fa17584e988f2b)
