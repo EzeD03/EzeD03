@@ -16,7 +16,7 @@
 
 <br />
 
-<div style="display:flex;">
+<div style="display:flex; flex-wrap:now-wrap">
 
   <div>
 
