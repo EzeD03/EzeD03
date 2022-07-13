@@ -1,6 +1,11 @@
 <h1 align="center">Hi everyone! 👋, I'm Ezequiel.</h1>
 <h3 align="center">A developer from Argentina with biggest objetives to do.</h3>
 
+
+<br />
+<br />
+
+
 - 🔭 I’m currently working on ["Loose"](https://www.loose.com.ar/)
 
 - 🌱 I’m currently learning **Full-Stack development**
