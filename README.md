@@ -43,4 +43,4 @@
 
 <br />
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/vknlwqw1tulpu7gizb81iwgm5)
+[![Spotify](https://ezed03.vercel.app/api/spotify)](https://open.spotify.com/user/ezed03)
