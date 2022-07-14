@@ -77,9 +77,7 @@
 
 <br />
 
-<h3> Now Playing 🎧:<h3>
-
-<br />
+<h3>Now Playing 🎧:<h3>
 
 <div style="text-align:center;">
 
