@@ -82,8 +82,8 @@
 
 <h3>Now Playing 🎧:</h3>
 
-<p align="center" width="20%">
+<div align="center" width="100%">
 
-[![Spotify](https://spotify-show-ol4jt1ee6-ezed03.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/6d7b769e19d44ffa84fa17584e988f2b)
+[![Spotify](https://spotify-show-ol4jt1ee6-ezed03.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&width=100%)](https://open.spotify.com/user/6d7b769e19d44ffa84fa17584e988f2b)
 
-</p>
+<div>
