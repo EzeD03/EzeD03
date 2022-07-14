@@ -5,7 +5,7 @@
 <br />
 <br />
 
-<p style="text-align:center;">
+<p align="center";>
   
 - 🔭 I’m currently working on ["Loose"](https://www.loose.com.ar/)
 
