@@ -5,9 +5,9 @@
 <br />
 <br />
 
-<p align="center">
+<p align="center">- 🔭 I’m currently working on ["Loose"](https://www.loose.com.ar/)</p>
   
-- 🔭 I’m currently working on ["Loose"](https://www.loose.com.ar/)
+
 
 - 🌱 I’m currently learning **Full-Stack development**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **ezedrojas03@gmail.com**
   
-</p>
+
   
   
 <br />
