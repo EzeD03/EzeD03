@@ -4,10 +4,8 @@
 
 <br />
 <br />
-
-<p align="center">- 🔭 I’m currently working on ["Loose"](https://www.loose.com.ar/)</p>
   
-
+- 🔭 I’m currently working on ["Loose"](https://www.loose.com.ar/
 
 - 🌱 I’m currently learning **Full-Stack development**
 
@@ -20,7 +18,7 @@
   
 <br />
 
-<div style="display:flex; dir:rtl;">
+<div display="flex">
 
 <div style="width:50%">
 
