@@ -5,7 +5,7 @@
 <br />
 <br />
   
-- 🔭 I’m currently working on ["Loose"](https://www.loose.com.ar/
+- 🔭 I’m currently working on [Loose](https://www.loose.com.ar/
 
 - 🌱 I’m currently learning **Full-Stack development**
 
