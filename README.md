@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full-Stack development**
 
-- 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/dezequiel-gonzalez/)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/dezequiel-gonzalez/)
 
 - 📫 How to reach me: **ezedrojas03@gmail.com**
   
