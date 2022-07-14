@@ -18,9 +18,9 @@
   
 <br />
 
-<div display="flex">
 
-<div style="width:50%">
+
+
 
 <h3 align="left">Connect with me:</h3>
 
@@ -53,36 +53,36 @@
   
 </p>
 
-</div>
+
 
 <br />
   
 
-<div style="width:50%">
+
   
 <h3>Experiencie:</h3>
 
-<div style="width: 100%;">
+<div width="100%">
 
 ![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=EzeD03&show_icons=true&hide_border=true)
 
 </div>
 
-<div style="width: 100%;">
+<div style="width: 100%">
 
 ![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EzeD03&layout=compact&langs_count=8&hide_border=true)
 
 </div>
   
-</div>
 
-</div>
+
+
 
 <br />
 
 <h3>Now Playing 🎧:</h3>
 
-<div style="text-align:center;">
+<div align="center">
 
 [![Spotify](https://spotify-show-ol4jt1ee6-ezed03.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/6d7b769e19d44ffa84fa17584e988f2b)
 
