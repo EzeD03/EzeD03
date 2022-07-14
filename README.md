@@ -5,11 +5,11 @@
 <br />
 <br />
   
-- 🔭 I’m currently working on [Loose](https://www.loose.com.ar/
+- 🔭 I’m currently working on [Loose](https://www.loose.com.ar/)
 
 - 🌱 I’m currently learning **Full-Stack development**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/dezequiel-gonzalez/](https://www.linkedin.com/in/dezequiel-gonzalez/)
+- 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/dezequiel-gonzalez/)
 
 - 📫 How to reach me: **ezedrojas03@gmail.com**
   
